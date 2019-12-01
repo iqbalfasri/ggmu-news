@@ -31,3 +31,14 @@
 .footer--content ul li a > span {
   margin-left: 10px;
 }
+.footer--copyright {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: rgb(182, 180, 180);
+  background-color: #111;
+  padding: 18px;
+  font-size: 12px;
+  margin-top: 50px;
+}

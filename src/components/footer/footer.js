@@ -39,16 +39,16 @@ function Footer() {
                 </li>
                 <li>
                   <a href="#!">
-                    <i
-                      className="fa fa-twitter-square"
-                      aria-hidden="true"
-                    ></i>
+                    <i className="fa fa-twitter-square" aria-hidden="true"></i>
                     <span>@startup_makassar</span>
                   </a>
                 </li>
               </ul>
             </div>
           </div>
+        </div>
+        <div className="footer--copyright">
+          Copyright &copy; 2014 Startup Makassar. All rights reserved.
         </div>
       </div>
     </footer>
