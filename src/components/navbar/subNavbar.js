@@ -9,7 +9,9 @@ function SubNavbar() {
           <div className="subnav--list-category">
             <ul>
               <li>
-                <a className="category--active" href="#!">News</a>
+                <a className="category--active" href="#!">
+                  News
+                </a>
               </li>
               <li>
                 <a href="#!">Info</a>
@@ -29,7 +31,7 @@ function SubNavbar() {
             </ul>
           </div>
           <div className="subnav--search">
-            <p>Search</p>
+            <i className="fa fa-search" aria-hidden="true"></i>
           </div>
         </div>
       </div>

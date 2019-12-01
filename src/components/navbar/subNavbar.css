@@ -37,5 +37,7 @@
 }
 
 .subnav--search {
-  padding: 0 15px 0;;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #e74b3b;
 }
