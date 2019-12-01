@@ -3,8 +3,9 @@ import React from "react";
 import HighLight from "./highlight";
 import Events from "./events";
 import FeaturedPlayer from "./featuredPlayer";
-import News from './news'
-import Contributor from './contributor';
+import News from "./news";
+import Contributor from "./contributor";
+import Subsribe from './subscribe';
 
 export default () => {
   return (
@@ -19,6 +20,7 @@ export default () => {
           </div>
           <div className="col-md-4">
             <Contributor />
+            <Subsribe />
           </div>
         </div>
       </div>
