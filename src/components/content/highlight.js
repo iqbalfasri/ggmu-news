@@ -16,7 +16,12 @@ function HighLight() {
             </div>
             <div className="content--info">
               <h1>Donec at elit lacus. Etiam sollicitudin nisi libero</h1>
-              <p>15 Desember 2014</p>
+              <p>
+                <i className="fa fa-calendar" aria-hidden="true">
+                  &nbsp;&nbsp;
+                </i>
+                15 Desember 2014
+              </p>
             </div>
           </div>
         </div>
@@ -30,18 +35,28 @@ function HighLight() {
                   </div>
                   <div className="content--info">
                     <h1 className="title--small">Donec elit lacus...</h1>
-                    <p>15 Desember 2014</p>
+                    <p>
+                      <i className="fa fa-calendar" aria-hidden="true">
+                        &nbsp;&nbsp;
+                      </i>
+                      15 Desember 2014
+                    </p>
                   </div>
                 </div>
               </div>
               <div className="col-md-6 pl-1">
                 <div className="highlight--content">
                   <div className="content--thumbnail">
-                    <img src='https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260' />
+                    <img src="https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
                   </div>
                   <div className="content--info">
                     <h1 className="title--small">Donec elit lacus...</h1>
-                    <p>15 Desember 2014</p>
+                    <p>
+                      <i className="fa fa-calendar" aria-hidden="true">
+                        &nbsp;&nbsp;
+                      </i>
+                      15 Desember 2014
+                    </p>
                   </div>
                 </div>
               </div>
@@ -50,22 +65,32 @@ function HighLight() {
               <div className="col-md-6 pl-1">
                 <div className="highlight--content">
                   <div className="content--thumbnail">
-                    <img src='https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260' />
+                    <img src="https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
                   </div>
                   <div className="content--info">
                     <h1 className="title--small">Donec elit lacus...</h1>
-                    <p>15 Desember 2014</p>
+                    <p>
+                      <i className="fa fa-calendar" aria-hidden="true">
+                        &nbsp;&nbsp;
+                      </i>
+                      15 Desember 2014
+                    </p>
                   </div>
                 </div>
               </div>
               <div className="col-md-6 pl-1">
                 <div className="highlight--content">
                   <div className="content--thumbnail">
-                    <img src='https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260' />
+                    <img src="https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
                   </div>
                   <div className="content--info">
                     <h1 className="title--small">Donec elit lacus...</h1>
-                    <p>15 Desember 2014</p>
+                    <p>
+                      <i className="fa fa-calendar" aria-hidden="true">
+                        &nbsp;&nbsp;
+                      </i>
+                      15 Desember 2014
+                    </p>
                   </div>
                 </div>
               </div>
