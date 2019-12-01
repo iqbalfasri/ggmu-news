@@ -1,16 +1,19 @@
 import React from "react";
 
 import Navbar from "./components/navbar/navbar";
-import Subnavbar from './components/navbar/subNavbar';
+import Subnavbar from "./components/navbar/subNavbar";
 
-import HighLight from './components/content/highlight'
+import Content from "./components/content";
+
+import Footer from "./components/footer/footer";
 
 function App() {
   return (
     <>
       <Navbar />
       <Subnavbar />
-      <HighLight />
+      <Content />
+      <Footer />
     </>
   );
 }
