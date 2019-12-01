@@ -1,0 +1,33 @@
+.footer--wrapper {
+  position: relative;
+  bottom: 0;
+  padding: 50px 0;
+  background-color: #333333;
+}
+.footer--content {
+  color: #fff;
+}
+.footer--content h5 {
+  font-size: 24px;
+  font-weight: bold;;
+  text-transform: uppercase;
+}
+.footer--content p, a {
+  color: #8d8d8d;
+  margin: 0 0;
+  font-size: 12px;
+}
+.footer--content a {
+  color: #e74b3a;
+}
+.footer--content ul {
+  list-style: none;
+}
+.footer--content ul li > a{
+  color: #8d8d8d;
+  font-size: 12px;
+  padding: 10px 0;
+}
+.footer--content ul li a > span {
+  margin-left: 10px;
+}
